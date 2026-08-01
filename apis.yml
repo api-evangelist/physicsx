@@ -1,7 +1,31 @@
 aid: physicsx
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/physicsx.png
 name: Physicsx
-description: Physicsx is a company surfaced as a portfolio company of general-catalyst and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  PhysicsX is an AI-native engineering software company, founded in 2020 and headquartered
+  in London (Shoreditch) with an office in New York, building a platform that embeds physics
+  AI directly into industrial engineering and manufacturing workflows. The platform unifies
+  simulation, physics AI, data, and engineering applications into a single foundation, pairing
+  fast AI-driven physics inference (Deep Physics Models) with numerical simulation to compress
+  development cycles and expand the design space engineers can explore. It integrates with
+  industry-standard CAE/CAD tooling (ANSYS, CATIA, Siemens NX, OpenFOAM, Siemens Star-CCM+),
+  runs cloud-agnostically across AWS and Azure plus hybrid and on-premises deployments, and
+  serves aerospace and defense, automotive, semiconductors, materials, and energy and renewables.
+  Born out of Formula One, PhysicsX has raised roughly $489M across five rounds from investors
+  including General Catalyst, Atomico, Temasek, NVIDIA, Siemens, and Applied Materials. There is
+  no public developer API, SDK, or documentation surface at this time; this profile captures the
+  company identity and public web properties.
 url: https://raw.githubusercontent.com/api-evangelist/physicsx/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +35,49 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Artificial Intelligence
+- Machine Learning
+- Engineering
+- Simulation
+- Physics
+- Manufacturing
+- Aerospace
+- Automotive
+- Semiconductors
+- Energy
+- CAE
 apis: []
+common:
+- type: DomainSecurity
+  url: security/physicsx-domain-security.yml
+- type: LLMsTxt
+  url: llms/physicsx-llms.txt
+- type: Website
+  url: https://www.physicsx.ai/
+- type: About
+  url: https://www.physicsx.ai/about
+- type: Blog
+  url: https://www.physicsx.ai/newsroom
+- type: Support
+  url: https://www.physicsx.ai/contact
+- type: GitHubOrganization
+  url: https://github.com/PhysicsXLtd
+- type: PrivacyPolicy
+  url: https://cdn.prod.website-files.com/67521ae751519bd4a23e29e8/6759f811daf98dba6ad4dae6_66f31ac60db020afaffd30d7_PhysicsX-Privacy-Policy.pdf
+- type: LinkedIn
+  url: https://www.linkedin.com/company/physicsx/
+- type: X
+  url: https://x.com/physicsxai
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

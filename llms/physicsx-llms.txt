@@ -1,0 +1,24 @@
+# PhysicsX
+
+> PhysicsX is an AI-native engineering software company (London / New York, founded 2020, born out of Formula One) building a platform that embeds physics AI into industrial engineering and manufacturing workflows. It unifies simulation, physics AI, data, and engineering applications into one foundation, pairing fast AI-driven physics inference (Deep Physics Models) with numerical simulation. There is no public developer API, SDK, or documentation surface at this time.
+
+## About
+- [Home](https://www.physicsx.ai/): Company overview and value proposition.
+- [About](https://www.physicsx.ai/about): Company mission, history, and team.
+- [Platform](https://www.physicsx.ai/platform): The AI-native engineering platform — Project Templates, Simulation Workbench, AI Workbench, Engineering Applications, Model Catalog, Data Unification, and Platform Services.
+- [Industries](https://www.physicsx.ai/industries): Aerospace & defense, automotive, semiconductors, materials, energy & renewables.
+
+## News & Careers
+- [Newsroom](https://www.physicsx.ai/newsroom): Company news, research, and product updates.
+- [Careers](https://www.physicsx.ai/careers): Open roles and hiring.
+- [Contact](https://www.physicsx.ai/contact): Get in touch with PhysicsX.
+
+## Code & Research
+- [GitHub (PhysicsXLtd)](https://github.com/PhysicsXLtd): Company GitHub organization; includes DINOZAUR, the official implementation of the NeurIPS 2025 spotlight paper on lightweight diffusion multipliers and uncertainty quantification for Fourier Neural Operators.
+
+## Social
+- [LinkedIn](https://www.linkedin.com/company/physicsx/)
+- [X](https://x.com/physicsxai)
+
+## Legal
+- [Privacy Policy](https://cdn.prod.website-files.com/67521ae751519bd4a23e29e8/6759f811daf98dba6ad4dae6_66f31ac60db020afaffd30d7_PhysicsX-Privacy-Policy.pdf)
