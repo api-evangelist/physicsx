@@ -50,7 +50,7 @@ modified: '2026-07-20'
 tags:
 - Company
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Engineering
 - Simulation
 - Physics
@@ -73,6 +73,7 @@ tags_raw:
 - Semiconductors
 - Energy
 - CAE
+- Machine-Learning
 apis: []
 common:
 - type: DomainSecurity
