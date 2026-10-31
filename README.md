@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Physicsx is a company surfaced as a portfolio company of general-catalyst and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+PhysicsX is an AI-native engineering software company, founded in 2020 and headquartered in London (Shoreditch) with an office in New York, building a platform that embeds physics AI directly into industrial engineering and manufacturing workflows. The platform unifies simulation, physics AI, data, and engineering applications into a single foundation, pairing fast AI-driven physics inference (Deep Physics Models) with numerical simulation to compress development cycles and expand the design space engineers can explore. It integrates with industry-standard CAE/CAD tooling (ANSYS, CATIA, Siemens NX, OpenFOAM, Siemens Star-CCM+), runs cloud-agnostically across AWS and Azure plus hybrid and on-premises deployments, and serves aerospace and defense, automotive, semiconductors, materials, and energy and renewables. Born out of Formula One, PhysicsX has raised roughly $489M across five rounds from investors including General Catalyst, Atomico, Temasek, NVIDIA, Siemens, and Applied Materials. There is no public developer API, SDK, or documentation surface at this time; this profile captures the company identity and public web properties.
 
-Backed by: general-catalyst
+**Areas:** Company · Artificial Intelligence · Machine Learning · Engineering · Simulation · Physics · Manufacturing · Aerospace · Automotive · Semiconductors · Energy · CAE
+
+## Physicsx on APIs.io
+
+Everything profiled for Physicsx is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/physicsx/](https://apis.io/providers/physicsx/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Physicsx Domain Security](https://apis.io/security/physicsx/physicsx-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.physicsx.ai/)
+- [Support](https://www.physicsx.ai/contact)
+- [Blog](https://www.physicsx.ai/newsroom)
+- [Privacy policy](https://cdn.prod.website-files.com/67521ae751519bd4a23e29e8/6759f811daf98dba6ad4dae6_66f31ac60db020afaffd30d7_PhysicsX-Privacy-Policy.pdf)
+- [GitHub](https://github.com/PhysicsXLtd)
+
+## API Evangelist rating
+
+**Kin Score 8.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.7** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/physicsx/](https://apis.io/providers/physicsx/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Physicsx: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/physicsx/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
